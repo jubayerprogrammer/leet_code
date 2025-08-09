@@ -12,6 +12,8 @@ s = Solution()
 a = "1010"
 b = "1011"
 print(s.addBinary(a,b))
+
+
         
 
 
