@@ -20,8 +20,7 @@ class Solution:
                 if(mark[i] != alpha[i]):
                     big_num = alpha[i]
                     mini_num = mark[i]
-                    big_index = alpha.index(big_num)
-                    mini_index = mark.index(mini_num)
+                    
                     break
 
 
