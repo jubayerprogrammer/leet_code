@@ -1,2 +1,2 @@
 
-        print(nums.count(nums[mid-2]))
+        if(count_b < b):
