@@ -1,2 +1,2 @@
 
-        if(count_b < b):
+                    mark.append(j)
