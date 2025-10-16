@@ -1,2 +1,1 @@
-
-                    mark.append(j)
+set(alpha)
